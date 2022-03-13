@@ -10,6 +10,8 @@ Utilising Context API for global state management.
 
 - Faker library to generate fake contextual data
 
+- react-router-dom for routing
+
 # How to set up the project on your local machine:
 
 1. Clone the repository to your local machine.
